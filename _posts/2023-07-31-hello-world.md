@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Is This What You Wanted?!
+title: The Purpose of This Blog
 postHero: /images/union.jpg
-author: The Great Me
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+author: B. Henry
+postFooter: Additional information, maybe a <a href="#">link or two</a>
 ---
 
 Call me *Ishmael*. Some years ago–*never mind how long
@@ -11,9 +11,6 @@ precisely*–having little or no money in my purse, and nothing
 particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
-
-<img class="pull-left" src="https://placekitten.com/g/400/200"
-     alt="kitten">
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,
 drizzly November in my soul; whenever I find myself involuntarily pausing
