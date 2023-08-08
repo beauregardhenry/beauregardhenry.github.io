@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is This What You Wanted?!
-postHero: 
+postHero: /images/union.jpg
 author: The Great Me
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
