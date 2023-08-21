@@ -3,11 +3,14 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    
       <div class="content-container">
         {{ content }} 
       </div>
-
     {% include footer.html %}
+    
+    <!-- Cloudflare Web Analytics -->
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "786182ca125c4c53bb2946c6a66ec8ca"}'></script>
+    <!-- End Cloudflare Web Analytics -->
+  
   </body>
 </html>
