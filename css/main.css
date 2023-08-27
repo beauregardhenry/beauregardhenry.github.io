@@ -264,10 +264,17 @@ html {
   font-stretch: normal;
   src: url('fonts/cooperhewitt/cooperhewitt-thin-italic.woff') format('woff');
 }
+@font-face {
+  font-family: swear;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('fonts/swear/SwearDisplayDemo-Medium.otf');
+}
 body {
   display: flex;
   flex-direction: column;
-  font-family: charter;
+  font-family: swear;
   min-height: 100vh;
 }
 .content-container {
