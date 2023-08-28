@@ -287,6 +287,34 @@ html {
   font-stretch: normal;
   src: url('/fonts/Compadre/Compadre-Demo-Regular.otf');
 }
+@font-face {
+  font-family: obviously;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/obviously/Obviously\ Normal/ObviouslyDemo-Regular.otf');
+}
+@font-face {
+  font-family: degular;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/degular/Degular/DegularDemo-Regular.otf');
+}
+@font-face {
+  font-family: coviksans;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/CovikSans/CovikSansDemo-Regular.otf');
+}
+@font-face {
+  font-family: retail;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/retail/Retail/RetailDemo-Regular.otf');
+}
 body {
   display: flex;
   flex-direction: column;
