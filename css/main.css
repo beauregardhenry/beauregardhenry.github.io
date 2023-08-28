@@ -318,9 +318,16 @@ html {
 @font-face {
   font-family: sourcecodepro;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-stretch: normal;
   src: url('/fonts/SourceCodePro/SourceCodePro-Bold.ttf');
+}
+@font-face {
+  font-family: sourcecodepro;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/SourceCodePro/SourceCodePro-Regular.ttf');
 }
 body {
   display: flex;
@@ -352,7 +359,8 @@ p {
 }
 h2 ~ p {
   font-size: 1.5em;
-  font-style: italic;
+  font-family: sourcecodepro;
+  font-style: normal;
   margin: 1em auto 0;
   max-width: 70%;
   text-align: justify;
