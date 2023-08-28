@@ -281,6 +281,13 @@ html {
   src: url('/fonts/swear/SwearDisplay/SwearDisplayDemo-Regular.otf');
 }
 @font-face {
+  font-family: swear;
+  font-style: normal;
+  font-weight: bold;
+  font-stretch: normal;
+  src: url('/fonts/swear/SwearText/SwearTextDemo-Bold.otf');
+}
+@font-face {
   font-family: compadre;
   font-style: normal;
   font-weight: normal;
