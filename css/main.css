@@ -315,6 +315,13 @@ html {
   font-stretch: normal;
   src: url('/fonts/retail/Retail/RetailDemo-Regular.otf');
 }
+@font-face {
+  font-family: sourcecodepro;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/SourceCodePro/SourceCodePro-Bold.ttf');
+}
 body {
   display: flex;
   flex-direction: column;
