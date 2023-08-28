@@ -280,6 +280,13 @@ html {
   font-stretch: normal;
   src: url('/fonts/swear/SwearDisplay/SwearDisplayDemo-Regular.otf');
 }
+@font-face {
+  font-family: compadre;
+  font-style: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  src: url('/fonts/Compadre/Compadre-Demo-Regular.otf');
+}
 body {
   display: flex;
   flex-direction: column;
